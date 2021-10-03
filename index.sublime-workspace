@@ -1,0 +1,310 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tra",
+				"transition-delay\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"backround",
+				"background-image\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"fo",
+				"font-family\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"tran",
+				"transition\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"bacground",
+				"background-size\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"cla",
+				"ClassName"
+			],
+			[
+				"a",
+				"auto\tmargin"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"font-",
+				"font-size\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Install Package Control"
+			],
+			[
+				"package control install ",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 165.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"Intal Package Control ",
+			"install packege control "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/10/Desktop/web_maket_app/css"
+	],
+	"file_history":
+	[
+		"/C/Users/10/Desktop/Герман анимация/index.html",
+		"/C/Users/10/Documents/sashkova/index.sublime-project",
+		"/C/Users/10/Documents/sashkova/lildarkyy.html",
+		"/C/Users/10/Desktop/Герман анимация/css/main.css",
+		"/C/Users/10/Desktop/Герман анимация/main.css",
+		"/C/Users/10/Desktop/web_maket_app/css/style.css",
+		"/C/Users/10/Desktop/Gallery_app2/css/style.css",
+		"/C/Users/10/Desktop/web_maket_app/index.html",
+		"/C/Users/10/Desktop/web_maket_app/2750795.svg",
+		"/C/Users/10/Desktop/gg/css/main.css",
+		"/C/Users/10/Desktop/gg/index.html",
+		"/C/Users/10/Downloads/friendfinderhtml.rar",
+		"/C/Users/10/Desktop/sneguroc/index.html",
+		"/C/Users/10/Desktop/sneguroc/css/main.css",
+		"/C/Users/10/Desktop/sneguroc/css/main2.css",
+		"/C/Users/10/Desktop/web_maket_app/css/main.css",
+		"/C/Users/10/Desktop/web_maket_app/main.css/main.css",
+		"/C/Users/10/Desktop/Gallery_app2/index.html",
+		"/C/Users/10/Desktop/Gallery_app/css/style.css",
+		"/C/Users/10/Desktop/Gallery_app/index.html",
+		"/E/pinterest/index.html",
+		"/E/pinterest/css/style.css",
+		"/C/Users/10/Desktop/lesson_4/index.html",
+		"/C/Users/10/Desktop/lesson_4/style.css",
+		"/C/Users/10/Desktop/lesson_4/style.ccs",
+		"/C/Users/10/Desktop/lesson_4",
+		"/C/Users/10/Desktop/index.html",
+		"/C/Users/10/Desktop/style.css",
+		"/C/Users/10/Desktop/Epic Games Launcher.lnk"
+	],
+	"find":
+	{
+		"height": 62.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 62.0
+	},
+	"input":
+	{
+		"height": 62.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.957555178268,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 120.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\10\\Desktop\\lesson_4\\index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
